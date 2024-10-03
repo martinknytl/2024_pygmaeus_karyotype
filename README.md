@@ -1,4 +1,4 @@
-# pygmaeus-karyotype
+# pygmaeus_karyotype
 All scripts for the paper Bergelova et al XXX
 
 statistics of pygmaeus karyotype besed on length of chromosomal arms
